@@ -6,6 +6,12 @@ El presente repositorio, se utiliza para albergar un proyecto que muestra un eje
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 _Solo debes descargar el proyecto y abrir la página en un navegador.
 
+_Puedes ver un ejemplo de la página funcionando en:_
+
+* [GOOGLE MAPS API EXAMPLE](https://elunadanilo.github.io/googlemaps-geofence/)
+
+
+
 ### Pre-requisitos 📋
 
 _Que cosas necesitas para instalar el software_
