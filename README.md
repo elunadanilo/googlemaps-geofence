@@ -1,4 +1,4 @@
-# rapidapicovid
+# googlemapsapi
 El presente repositorio, se utiliza para albergar un proyecto que muestra un ejemplo de como utilizar el Api de Google Maps para utilizar Geocercas
 
 ## Comenzando 🚀
